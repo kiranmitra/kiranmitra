@@ -4,6 +4,7 @@ I'm Kiran Mitra, CS major at Cornell University (graduating May 2027). Within CS
 I have pursued my interest in AI through Stanford's online courses in high school and am now focusing my Cornell undergraduate education on AI with plans to minor in AI and Data Science. Most recently, I earned a certification in Machine Learning Foundations from Cornell Tech through the Break Through Tech AI Program and have completed 2 AI Studio projects at Verizon. I have also taken initiative to gain a deeper understanding of AI through research and have been a Senior Backend Developer in the University of Washington's DeepTracer team for 4+ years, earning a NCWIT Aspirations in Computing Award for my work there.
 
 Project links:
+- Inclusive Dermatology Diagnosis Predictor: https://github.com/AJL-Cermides/Dermatology-Challenge
 - Verizon:
   - https://github.com/Verizon-4/Foliage
   - https://github.com/am2558/verizon-sql-autobi
